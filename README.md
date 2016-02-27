@@ -15,11 +15,11 @@
 
 `Class ViewController: UIViewController{`
 
-`@IBAction func buttonPressed(sender: UIButton)`{
+`@IBAction func buttonPressed(sender: UIButton){`
 
-}
+`}`
 
-}
+`}`
 
 * 然后就是影视方面，影视方面的一个分支就是动画。动画包括人物设计，场景绘制，特效，音效，后期合成。在这个方面我们学过用PS或者Flash进行人物的设计与场景的绘制。在我的学习中，人物要各部分分层绘制，场景中的物体也要分开逐层描绘。这样将有益于我们进行后期创作。当作好了美术方面的设计以后，我们就要让一个个静止的人物和场景动起来。在这方面我们使用了CTA软件，对人物的合成以及赋予它动作，场景也需逐帧在此码放。然后我们音效用的是Nuendo,进行对画面配音。
 
