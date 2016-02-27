@@ -2,6 +2,10 @@
 ## **个人信息**
 ！[]（http://a1.qpic.cn/psb?/V10njDWl15c643/7sVuGbOiylWf2ko4VoGYIF7*ULolFFrOHwoeaWpAbLo!/m/dKgAAAAAAAAAnull&bo=7gLoAwAAAAAFByM!&rf=photolist&t=5)
 
+>座右铭
+
+积极的人在每一次忧患中都看到一次机会，而消极的人则在每个机会中都看到某种忧患。
+
 我叫陈钦，个人性格比较开朗。是北京工业大学13级数字媒体专业的学生。我认为数字媒体专业是一个涵盖多方面知识与技术范围的专业。下面我就用我个人的理解阐述一下我对该专业的认识。他大方面为几个方面。
 
 1. *编程*
