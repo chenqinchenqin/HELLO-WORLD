@@ -2,7 +2,7 @@
 ## **个人信息**
 ！[]（http://a1.qpic.cn/psb?/V10njDWl15c643/7sVuGbOiylWf2ko4VoGYIF7*ULolFFrOHwoeaWpAbLo!/m/dKgAAAAAAAAAnull&bo=7gLoAwAAAAAFByM!&rf=photolist&t=5)
 
->座右铭
+> 座右铭
 
 积极的人在每一次忧患中都看到一次机会，而消极的人则在每个机会中都看到某种忧患。
 
